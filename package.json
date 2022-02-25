@@ -1,0 +1,16 @@
+{
+  "name": "bootstrapscrollanimation",
+  "version": "1.0.0",
+  "description": "bootstrap scroll animation tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "scroll",
+    "animation"
+  ],
+  "author": "Geekers-Joel237",
+  "license": "MIT"
+}

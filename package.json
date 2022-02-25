@@ -12,5 +12,8 @@
     "animation"
   ],
   "author": "Geekers-Joel237",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "scrollreveal": "^4.0.9"
+  }
 }
